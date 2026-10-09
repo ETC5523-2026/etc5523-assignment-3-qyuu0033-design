@@ -1,12 +1,24 @@
 ---
-title: "Welcome To My Blog Template"
-author: "Emi Tanaka"
-date: "2022-07-18"
-categories: [news]
+title: "When the Fire Weather Changes: Lessons from Australia's 2019–20 Bushfires"
+author: "Qingqing Yu"
+date: "2026-10-09"
+categories: [Climate Change, Bushfire Risk]
+description: "What climate attribution research tells us about changing extreme fire-weather risk in southeastern Australia."
 ---
 
-This is the first post in a Quarto blog. Welcome!
+# Why Does Changing Fire Weather Matter?
 
-![](thumbnail.jpg)
+The devastating 2019–20 Australian bushfire season raised an important question: how is climate change affecting the likelihood of extreme fire-weather conditions?
+
+For local governments and emergency management professionals, this is more than a scientific question. Understanding how climate risk changes can help inform long-term preparedness and resilience planning.
+
+In this post, I summarise research by van Oldenborgh et al. (2021) on the influence of anthropogenic climate change on extreme fire-weather risk in southeastern Australia.
+
+## What Did the Research Find?
+
+The study found that anthropogenic climate change increased the likelihood of extreme fire-weather conditions. Climate-model results estimated that an event with a Fire Weather Index (FWI) as high as that observed in 2019–20 was approximately 80% more likely than in the early twentieth-century climate. The conservative lower bound was approximately 30%.
+The estimated change in risk is summarised in @fig-fwi-risk. The comparison shows why historical fire-weather probabilities may no longer provide a sufficient guide to future preparedness.
 
 
+![Estimated relative likelihood of an extreme fire-weather event across climate scenarios. The early twentieth-century climate is the baseline.](figure1.png){#fig-fwi-risk}
+The present-climate estimate is approximately 1.8 times the baseline likelihood, with a conservative lower bound of about a 30% increase. Under a 2°C warmer climate, the estimated likelihood is approximately eight times the baseline, with a lower bound of about four times. The future estimate is uncertain because only two climate models were available for that analysis.
