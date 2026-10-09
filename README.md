@@ -26,8 +26,6 @@ The website is built using Quarto.
 
 ## Generative AI Declaration
 
-## Generative AI Declaration
-
 I used generative AI (ChatGPT) to support several aspects of this assignment. First, I used it to organise the main steps of the assignment and understand the workflow required to develop the website. Second, I used AI to generate CSS style suggestions when customising the website's appearance, including its colours and visual presentation.
 
 I also used ChatGPT for guidance on how to create Figure 1 for the blog, and to review my code for potential errors and correctness. In addition, I used AI to check the grammar and spelling of my writing and to identify and correct language errors.
