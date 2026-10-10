@@ -22,7 +22,7 @@ The website is built using Quarto.
 
 **GitHub repository:** https://github.com/qyuu0033-design
 
-**Published website:**
+**Published website:**<https://etc5523-2026.github.io/etc5523-assignment-3-qyuu0033-design/>
 
 ## Generative AI Declaration
 
