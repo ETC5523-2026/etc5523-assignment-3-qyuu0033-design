@@ -16,7 +16,7 @@ In this post, I summarise research by van Oldenborgh et al. (2021) on the influe
 
 ## What Did the Research Find?
 
-The study found that anthropogenic climate change increased the likelihood of extreme fire-weather conditions. Climate-model results estimated that an event with a Fire Weather Index (FWI) as high as that observed in 2019–20 was approximately 80% more likely than in the early twentieth-century climate. The conservative lower bound was approximately 30%. The estimated change in risk is summarised in @fig-fwi-risk. The comparison shows why historical fire-weather probabilities may no longer provide a sufficient guide to future preparedness.
+The study found that anthropogenic climate change increased the likelihood of extreme fire-weather conditions. Climate-model results estimated that an event with a Fire Weather Index (FWI) as high as that observed in 2019–20 was approximately 80% more likely than in the early twentieth-century climate. The conservative lower bound was approximately 30%. The estimated change in risk is shown in the figure below. The comparison shows why historical fire-weather probabilities may no longer provide a sufficient guide to future preparedness.
 
 ![Estimated relative likelihood of an extreme fire-weather event across climate scenarios. The early twentieth-century climate is the baseline.](figure1.png){#fig-fwi-risk} The present-climate estimate is approximately 1.8 times the baseline likelihood, with a conservative lower bound of about a 30% increase. Under a 2°C warmer climate, the estimated likelihood is approximately eight times the baseline, with a lower bound of about four times. The future estimate is uncertain because only two climate models were available for that analysis.
 
@@ -25,7 +25,7 @@ The study found that anthropogenic climate change increased the likelihood of ex
 Table 1 summarises the main findings across the climate factors examined in the study. The results show that the evidence for an anthropogenic signal differs across factors.
 
 | Factor | Main finding | Interpretation |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Extreme fire weather | Approximately 80% more likely in the present climate; conservative lower bound about 30% | Clear increase in weather-related risk |
 | Extreme heat | At least twice as likely | Rising temperature extremes are a major driver |
 | Extreme annual drought | No attributable trend identified | The study did not find the same signal across all climate variables |
