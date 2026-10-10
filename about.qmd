@@ -7,7 +7,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com/qyuu0033-design
-
 ---
 
 I am currently pursuing a Master of Business Analytics (B6022) at Monash University. Through my studies, I am developing my interests in data analysis, statistical reasoning, and communicating data-driven insights to support informed decision-making.
