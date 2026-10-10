@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "When the Fire Weather Changes: Lessons from Australia’s 2019–20 Bushfires",
+    "section": "",
+    "text": "The devastating 2019–20 Australian bushfire season raised an important question: how is climate change affecting the likelihood of extreme fire-weather conditions?\nFor local governments and emergency management professionals, this is more than a scientific question. Understanding how climate risk changes can help inform long-term preparedness and resilience planning.\nIn this post, I summarise research by van Oldenborgh et al. (2021) on the influence of anthropogenic climate change on extreme fire-weather risk in southeastern Australia.\n\n\nThe study found that anthropogenic climate change increased the likelihood of extreme fire-weather conditions. Climate-model results estimated that an event with a Fire Weather Index (FWI) as high as that observed in 2019–20 was approximately 80% more likely than in the early twentieth-century climate. The conservative lower bound was approximately 30%. The estimated change in risk is summarised in ?@fig-fwi-risk. The comparison shows why historical fire-weather probabilities may no longer provide a sufficient guide to future preparedness.\n The present-climate estimate is approximately 1.8 times the baseline likelihood, with a conservative lower bound of about a 30% increase. Under a 2°C warmer climate, the estimated likelihood is approximately eight times the baseline, with a lower bound of about four times. The future estimate is uncertain because only two climate models were available for that analysis.\n\n\n\nTable 1 summarises the main findings across the climate factors examined in the study. The results show that the evidence for an anthropogenic signal differs across factors.\n\n\n\nTable 1: Summary of climate factors examined in van Oldenborgh et al. (2021).\n\n\n\n\n\n\n\n\n\n\nFactor\nMain finding\nInterpretation\n\n\n\n\nExtreme fire weather\nApproximately 80% more likely in the present climate; conservative lower bound about 30%\nClear increase in weather-related risk\n\n\nExtreme heat\nAt least twice as likely\nRising temperature extremes are a major driver\n\n\nExtreme annual drought\nNo attributable trend identified\nThe study did not find the same signal across all climate variables\n\n\nNatural climate variability\nIOD and SAM contributed to the 2019 drought conditions\nIndividual fire seasons are also influenced by natural variability\n\n\n\n\n\n\nAs shown in Table 1, climate change does not affect every component of fire weather in the same way. This distinction matters when communicating risk to emergency planners.\n\n\n\nThese findings should be interpreted with care. The study estimates changes in the likelihood of extreme fire-weather conditions, rather than attributing every aspect of the 2019–20 bushfire disaster to climate change. Ignition sources, vegetation, exposure and vulnerability also influence bushfire impacts.\nThe future estimate under approximately 2°C warming is particularly uncertain because it was based on only two climate models. The results therefore indicate a direction of changing risk, rather than an exact prediction of future fire seasons.\n\n\n\nThe evidence from van Oldenborgh et al. (2021) indicates that anthropogenic climate change has increased the likelihood of extreme fire-weather conditions in southeastern Australia. The model-based estimate suggests that a 2019–20-level event became approximately 80% more likely than in the early twentieth-century climate, although the conservative lower bound was about 30%.\nFor local governments and emergency management professionals, the key implication is that historical fire-weather probabilities should not automatically be treated as reliable guides to future conditions. Climate adaptation and bushfire preparedness need to account for changing climate risks while also considering natural variability and the non-climate factors that shape fire impacts.\n\n\n\nvan Oldenborgh, G. J., et al. (2021). Attribution of the Australian bushfire risk to anthropogenic climate change. Natural Hazards and Earth System Sciences, 21, 941–960. https://doi.org/10.5194/nhess-21-941-2021"
+  },
+  {
+    "objectID": "posts/welcome/index.html#what-did-the-research-find",
+    "href": "posts/welcome/index.html#what-did-the-research-find",
+    "title": "When the Fire Weather Changes: Lessons from Australia’s 2019–20 Bushfires",
+    "section": "",
+    "text": "The study found that anthropogenic climate change increased the likelihood of extreme fire-weather conditions. Climate-model results estimated that an event with a Fire Weather Index (FWI) as high as that observed in 2019–20 was approximately 80% more likely than in the early twentieth-century climate. The conservative lower bound was approximately 30%. The estimated change in risk is summarised in ?@fig-fwi-risk. The comparison shows why historical fire-weather probabilities may no longer provide a sufficient guide to future preparedness.\n The present-climate estimate is approximately 1.8 times the baseline likelihood, with a conservative lower bound of about a 30% increase. Under a 2°C warmer climate, the estimated likelihood is approximately eight times the baseline, with a lower bound of about four times. The future estimate is uncertain because only two climate models were available for that analysis."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am currently pursuing a Master of Business Analytics (B6022) at Monash University. Through my studies, I am developing my interests in data analysis, statistical reasoning, and communicating data-driven insights to support informed decision-making.\nThis blog explores how climate change influences extreme fire-weather risk in southeastern Australia, with a particular focus on the 2019–20 Australian bushfire season. I aim to translate climate attribution research into clear, accessible insights for local government and emergency management professionals, highlighting how data and evidence can inform climate adaptation and long-term preparedness."
+  },
+  {
+    "objectID": "posts/welcome/index.html#which-factors-matter-for-fire-weather",
+    "href": "posts/welcome/index.html#which-factors-matter-for-fire-weather",
+    "title": "When the Fire Weather Changes: Lessons from Australia’s 2019–20 Bushfires",
+    "section": "",
+    "text": "Table 1 summarises the main findings across the climate factors examined in the study. The results show that the evidence for an anthropogenic signal differs across factors.\n\n\n\nTable 1: Summary of climate factors examined in van Oldenborgh et al. (2021).\n\n\n\n\n\n\n\n\n\n\nFactor\nMain finding\nInterpretation\n\n\n\n\nExtreme fire weather\nApproximately 80% more likely in the present climate; conservative lower bound about 30%\nClear increase in weather-related risk\n\n\nExtreme heat\nAt least twice as likely\nRising temperature extremes are a major driver\n\n\nExtreme annual drought\nNo attributable trend identified\nThe study did not find the same signal across all climate variables\n\n\nNatural climate variability\nIOD and SAM contributed to the 2019 drought conditions\nIndividual fire seasons are also influenced by natural variability\n\n\n\n\n\n\nAs shown in Table 1, climate change does not affect every component of fire weather in the same way. This distinction matters when communicating risk to emergency planners."
+  },
+  {
+    "objectID": "posts/welcome/index.html#what-are-the-limitations",
+    "href": "posts/welcome/index.html#what-are-the-limitations",
+    "title": "When the Fire Weather Changes: Lessons from Australia’s 2019–20 Bushfires",
+    "section": "",
+    "text": "These findings should be interpreted with care. The study estimates changes in the likelihood of extreme fire-weather conditions, rather than attributing every aspect of the 2019–20 bushfire disaster to climate change. Ignition sources, vegetation, exposure and vulnerability also influence bushfire impacts.\nThe future estimate under approximately 2°C warming is particularly uncertain because it was based on only two climate models. The results therefore indicate a direction of changing risk, rather than an exact prediction of future fire seasons."
+  },
+  {
+    "objectID": "posts/welcome/index.html#conclusion",
+    "href": "posts/welcome/index.html#conclusion",
+    "title": "When the Fire Weather Changes: Lessons from Australia’s 2019–20 Bushfires",
+    "section": "",
+    "text": "The evidence from van Oldenborgh et al. (2021) indicates that anthropogenic climate change has increased the likelihood of extreme fire-weather conditions in southeastern Australia. The model-based estimate suggests that a 2019–20-level event became approximately 80% more likely than in the early twentieth-century climate, although the conservative lower bound was about 30%.\nFor local governments and emergency management professionals, the key implication is that historical fire-weather probabilities should not automatically be treated as reliable guides to future conditions. Climate adaptation and bushfire preparedness need to account for changing climate risks while also considering natural variability and the non-climate factors that shape fire impacts."
+  },
+  {
+    "objectID": "posts/welcome/index.html#reference",
+    "href": "posts/welcome/index.html#reference",
+    "title": "When the Fire Weather Changes: Lessons from Australia’s 2019–20 Bushfires",
+    "section": "",
+    "text": "van Oldenborgh, G. J., et al. (2021). Attribution of the Australian bushfire risk to anthropogenic climate change. Natural Hazards and Earth System Sciences, 21, 941–960. https://doi.org/10.5194/nhess-21-941-2021"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fire Weather & Climate Risk",
+    "section": "",
+    "text": "Explore how climate change is influencing extreme fire-weather risk in southeastern Australia.\nThis blog translates climate attribution research into accessible insights for local government and emergency management professionals. It examines the evidence from the 2019–20 Australian bushfire season, explains the uncertainties, and considers what the findings mean for long-term preparedness.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhen the Fire Weather Changes: Lessons from Australia’s 2019–20 Bushfires\n\n\n\nClimate Change\n\nBushfire Risk\n\n\n\nWhat climate attribution research tells us about changing extreme fire-weather risk in southeastern Australia.\n\n\n\n\n\nOct 9, 2026\n\n\nQingqing Yu\n\n\n\n\n\nNo matching items"
+  }
+]

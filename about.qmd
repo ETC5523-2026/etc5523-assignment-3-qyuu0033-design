@@ -6,8 +6,9 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://github.com/etc5523-2022
-
+      href: https://github.com/qyuu0033-design
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+I am currently pursuing a Master of Business Analytics (B6022) at Monash University. Through my studies, I am developing my interests in data analysis, statistical reasoning, and communicating data-driven insights to support informed decision-making.
+
+This blog explores how climate change influences extreme fire-weather risk in southeastern Australia, with a particular focus on the 2019–20 Australian bushfire season. I aim to translate climate attribution research into clear, accessible insights for local government and emergency management professionals, highlighting how data and evidence can inform climate adaptation and long-term preparedness.
